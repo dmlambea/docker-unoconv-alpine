@@ -10,6 +10,11 @@ RUN apk --no-cache add bash mc \
             util-linux \
             libreoffice-common \
             libreoffice-writer \
+            libreoffice-base \
+            libreoffice-draw \
+            libreoffice-calc \
+            libreoffice-math \
+            libreoffice-impress \
             ttf-droid-nonlatin \
             ttf-droid \
             ttf-dejavu \
